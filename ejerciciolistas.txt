@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Practica de HTML</title>
+</head>
+
+<body>
+    <p>Listas ordenadas</p>
+    <p>La lista debe ir desde la letra "a" hasta la "d"</p>
+<ol type="a" start="1" >
+    <li>a. Elemento 1</li>
+    <li>b. Elemento 2</li>
+    <li>c. Elemento 3</li>
+    <li>d. Elemento 4</li> 
+</ol>
+<p>La lista debe ir desde la letra "g" hasta la "j"</p>
+ol type="a" start="6" >
+    <li>Elemento 1</li>
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>  
+</ol>
+<p>La lista debe ir desde la letra "z" hasta la "w" </p>
+<ol>Type="a" reverse="yes"
+    <li>Elemento 1</li>
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+    <li>Elemento 4</li>
+    
+</ol>
+<ol>
+<li>Elemento 1</li>
+<li>Elemento 2</li>
+<li>Elemento 3</li>
+<li>Elemento 4</li>
+</ol>
+<ol start="33" > 
+<li>Elemento 1</li>
+<li>Elemento 2</li>
+<li>Elemento 3</li>
+<li>Elemento 4</li>
+</ol>
+<ol start="97" reversed>
+<li>Elemento 1</li>
+<li>Elemento 2</li>
+<li>Elemento 3</li>
+<li>Elemento 4</li>
+</ol>
